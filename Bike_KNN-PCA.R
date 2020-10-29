@@ -1,5 +1,3 @@
-# MATH 6350 Midterm 1
-
 library(dplyr) # Package for subset data
 library(standardize)
 library(class) # KNN
